@@ -1,5 +1,3 @@
-
-https://github.com/mohammed-saleh2007/bootanimation_changeer_4_android-/assets/140978153/a31c2f9c-be68-465a-9cb4-e6f1be714ecc
 # Magisk Boot Animation Changer
 ## Requierments
 - Magisk 26.0+
