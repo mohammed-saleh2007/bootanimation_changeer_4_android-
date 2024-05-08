@@ -14,8 +14,6 @@
 # Previews
 https://github.com/mohammed-saleh2007/bootanimation_changeer_4_android-/assets/140978153/8f9b3924-f71e-48ac-92e8-7a26cdba7051
 
-https://github.com/mohammed-saleh2007/bootanimation_changeer_4_android-/assets/140978153/55f1dfc3-540e-41e3-951c-505042d4aca2
-
 https://github.com/mohammed-saleh2007/bootanimation_changeer_4_android-/assets/140978153/773f5804-294a-4d2b-a81f-e697e544d7f5
 
 https://github.com/mohammed-saleh2007/bootanimation_changeer_4_android-/assets/140978153/24c788d8-766a-452d-9ac0-375681ddcd6c
