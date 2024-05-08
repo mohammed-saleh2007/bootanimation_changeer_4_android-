@@ -1,0 +1,6 @@
+name=Boot animation changer
+version=1.0
+description=DO NOT FLASH IF YOU HAVE ONE THEME ALREADY - this module for devices uses bootanimation.zip for bootanimation (not Samsung) will replace your bootanimation system with us systemlesslyu
+id=change.bootanimation
+versionCode=1
+author=mohammed saleh
