@@ -9,4 +9,4 @@
 - look for `system-product-media` or `system-media` as what your ROM uses
 - downlaod it and enjoy
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/supertechman)
